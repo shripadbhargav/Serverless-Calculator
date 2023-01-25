@@ -1,3 +1,3 @@
 # Serverless-Calculator
 
-![Screenshot](Serverless-Calculator-4.png)
+![Screenshot](Serverless-Calculator-5.png)
