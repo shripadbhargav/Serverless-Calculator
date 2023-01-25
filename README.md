@@ -5,5 +5,5 @@
 
 Calcualtor User Interface
 
-![Screenshot](Calculator-UI.png)
+![Screenshot](Calculator-UI.PNG)
 
